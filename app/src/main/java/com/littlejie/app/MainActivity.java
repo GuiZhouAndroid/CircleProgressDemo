@@ -9,6 +9,10 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.littlejie.app.pogress.CircleProgress;
+import com.littlejie.app.pogress.DialProgress;
+import com.littlejie.app.pogress.WaveProgress;
+
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {

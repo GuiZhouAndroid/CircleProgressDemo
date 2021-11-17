@@ -1,4 +1,4 @@
-package com.littlejie.app;
+package com.littlejie.app.pogress;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -16,6 +16,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+import com.littlejie.app.R;
 import com.littlejie.app.utils.Constant;
 import com.littlejie.app.utils.MiscUtil;
 
